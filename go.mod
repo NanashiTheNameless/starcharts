@@ -1,4 +1,4 @@
-module github.com/caarlos0/starcharts
+module github.com/NanashiTheNameless/starcharts
 
 go 1.23.0
 

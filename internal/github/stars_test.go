@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/alicebob/miniredis"
-	"github.com/caarlos0/starcharts/config"
-	"github.com/caarlos0/starcharts/internal/cache"
-	"github.com/caarlos0/starcharts/internal/roundrobin"
+	"github.com/NanashiTheNameless/starcharts/config"
+	"github.com/NanashiTheNameless/starcharts/internal/cache"
+	"github.com/NanashiTheNameless/starcharts/internal/roundrobin"
 	"github.com/go-redis/redis"
 	"github.com/matryer/is"
 	"gopkg.in/h2non/gock.v1"

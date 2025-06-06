@@ -8,9 +8,9 @@ import (
 	"net/http"
 
 	"github.com/apex/log"
-	"github.com/caarlos0/starcharts/config"
-	"github.com/caarlos0/starcharts/internal/cache"
-	"github.com/caarlos0/starcharts/internal/roundrobin"
+	"github.com/NanashiTheNameless/starcharts/config"
+	"github.com/NanashiTheNameless/starcharts/internal/cache"
+	"github.com/NanashiTheNameless/starcharts/internal/roundrobin"
 	"github.com/prometheus/client_golang/prometheus"
 )
 

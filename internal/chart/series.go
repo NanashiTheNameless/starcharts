@@ -4,7 +4,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/caarlos0/starcharts/internal/chart/svg"
+	"github.com/NanashiTheNameless/starcharts/internal/chart/svg"
 )
 
 type Series struct {

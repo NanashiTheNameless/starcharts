@@ -9,10 +9,10 @@ import (
 
 	"github.com/apex/log"
 	"github.com/caarlos0/httperr"
-	"github.com/caarlos0/starcharts/internal/cache"
-	"github.com/caarlos0/starcharts/internal/chart"
-	"github.com/caarlos0/starcharts/internal/chart/svg"
-	"github.com/caarlos0/starcharts/internal/github"
+	"github.com/NanashiTheNameless/starcharts/internal/cache"
+	"github.com/NanashiTheNameless/starcharts/internal/chart"
+	"github.com/NanashiTheNameless/starcharts/internal/chart/svg"
+	"github.com/NanashiTheNameless/starcharts/internal/github"
 )
 
 var stylesMap = map[string]string{
